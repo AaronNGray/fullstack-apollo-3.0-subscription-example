@@ -1,6 +1,6 @@
 # fullstack-apollo-3.0-subscription-example
 
-A minimal Apollo Server 3 with Apollo Client 3 application with subscriptions.
+A minimal Apollo Server 3 with Apollo Client 3 application with subscriptions, derived from https://github.com/the-road-to-graphql/fullstack-apollo-subscription-example.
 
 ## Installation
 
