@@ -12,6 +12,7 @@
   "author": "“Robin <rwieruch@fastmail.com> (https://www.robinwieruch.de)",
   "license": "ISC",
   "dependencies": {
+    "@babel/cli": "^7.21.0",
     "apollo-server": "^3.3.0",
     "apollo-server-express": "^3.3.0",
     "cors": "^2.8.4",
@@ -21,7 +22,6 @@
     "subscriptions-transport-ws": "^0.11.0"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
     "nodemon": "^2.0.21"
